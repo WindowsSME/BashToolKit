@@ -1,4 +1,4 @@
-# BashToolKit
+# Bash ToolKit
 This repository contains shell scripts used to support IT operations, endpoint audits, and system management across non-Windows platforms.
 
 ---
